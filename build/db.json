@@ -1,0 +1,273 @@
+{
+    "menu": {
+        "dishes": {
+            "салати": [
+                {
+                    "id": 1,
+                    "price": 120,
+                    "name": "Салат Цезар",
+                    "description": "Листя салату, курка, сир пармезан, соус Цезар",
+                    "img": "https://static.1000.menu/res/640/img/content-v2/eb/79/19516/salat-cezar-klassicheskii-s-kuricei_1611309331_16_max.jpg"
+                    
+                },
+                {
+                    "id": 2,
+                    "price": 130,
+                    "name": "Грецький салат",
+                    "description": "Помідори, огірки, сир фета, оливки, червона цибуля",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9z_84zfX05KPCAvfZi6Dk4oEfV2C2UKI3sg&s"
+                },
+                {
+                    "id": 3,
+                    "price": 150,
+                    "name": "Салат Олів'є",
+                    "description": "Картопля, морква, горошок, варена ковбаса, майонез",
+                    "img": "https://www.volyn24.com/img/modules/news/5/0a/a4f924b4e0660b0153cf3a2bd178f0a5/gallery-photo.jpg"
+                },
+                {
+                    "id": 4,
+                    "price": 140,
+                    "name": "Салат Капрезе",
+                    "description": "Помідори, моцарела, базилік, оливкова олія",
+                    "img": "https://s1.eda.ru/StaticContent/Photos/170224233526/210625072151/p_O.jpeg"
+                },
+                {
+                    "id": 5,
+                    "price": 160,
+                    "name": "Салат Нісуаз",
+                    "description": "Тунець, яйця, картопля, зелена квасоля, анчоуси",
+                    "img": "https://kamelena.com/uploads/recipes/400/410/f410-salat-nisuaz.jpg"
+                },
+                {
+                    "id": 6,
+                    "price": 135,
+                    "name": "Курячий салат",
+                    "description": "Курка, капуста, огірки, соєвий соус",
+                    "img": "https://img-global.cpcdn.com/recipes/d08deb9867dd00e9/680x482cq70/tieplii-kuriachii-salat-z-iaitsiem-pashot-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B5-%D1%84%D0%BE%D1%82%D0%BE-%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0.jpg "
+                },
+                {
+                    "id": 7,
+                    "price": 145,
+                    "name": "Салат із морепродуктами",
+                    "description": "Креветки, кальмари, зелень, лимон",
+                    "img": "https://st.bork.ru/recipes/salaty-garniry-i-zakuski/salat-s-moreproduktami/1.jpg"
+                },
+                {
+                    "id": 8,
+                    "price": 155,
+                    "name": "Салат із авокадо",
+                    "description": "Авокадо, помідори, рукола, лимонний сік",
+                    "img": "https://i.obozrevatel.com/food/recipemain/2020/3/10/8.png?size=636x424"
+                }
+            ],
+            "піца": [
+                {
+                    "id": 9,
+                    "price": 250,
+                    "name": "Піца Маргарита",
+                    "description": "Томатний соус, моцарела, базилік",
+                    "img": "https://whynot-pizza.com/wp-content/uploads/2021/12/%D0%BC%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0.jpg"
+                },
+                {
+                    "id": 10,
+                    "price": 300,
+                    "name": "Піца Пепероні",
+                    "description": "Томатний соус, моцарела, салямі пепероні",
+                    "img": "https://kvadratsushi.com/st/wp-content/uploads/sites/13/2022/11/piza_peperoni.jpg"
+                },
+                {
+                    "id": 11,
+                    "price": 280,
+                    "name": "Гавайська піца",
+                    "description": "Шинка, ананас, сир моцарела",
+                    "img": "https://drova.family/wp-content/uploads/2021/02/gavajska.jpg "
+                },
+                {
+                    "id": 12,
+                    "price": 320,
+                    "name": "Піца Чотири сезони",
+                    "description": "Гриби, артишоки, шинка, сир",
+                    "img": "https://drova.family/wp-content/uploads/2021/02/chotyry-sezony.jpg"
+                },
+                {
+                    "id": 13,
+                    "price": 350,
+                    "name": "Піца Барбекю",
+                    "description": "Курка, бекон, соус барбекю, червона цибуля",
+                    "img": "https://www.tarantino-family.com/wp-content/uploads/339001.png"
+                },
+                {
+                    "id": 14,
+                    "price": 340,
+                    "name": "Овочева піца",
+                    "description": "Перець, баклажани, кабачки, помідори",
+                    "img": "https://zaxid.net/resources/photos/news/202407/1590315.jpg?20240728213922&fit=cover&w=755&h=425&q=10"
+                },
+                {
+                    "id": 15,
+                    "price": 370,
+                    "name": "Піца Діабола",
+                    "description": "Гостра салямі, халапеньо, сир моцарела, томатний соус",
+                    "img": "https://kvadratsushi.com/wp-content/uploads/2018/06/Diablo_1200x800.jpg"
+                },
+                {
+                    "id": 16,
+                    "price": 390,
+                    "name": "Піца з морепродуктами",
+                    "description": "Креветки, кальмари, восьминіг, томатний соус",
+                    "img": "https://i.obozrevatel.com/food/recipemain/2019/2/17/ap.jpg?size=636x424"
+                }
+            ],
+            "суші": [
+                {
+                    "id": 17,
+                    "price": 200,
+                    "name": "Рол з лососем",
+                    "description": "Лосось, авокадо, рис, норі",
+                    "img": "https://fydziama.in.ua/userfiles/product_img/photoss/6.png"
+                },
+                {
+                    "id": 18,
+                    "price": 220,
+                    "name": "Рол з тунцем",
+                    "description": "Тунець, огірок, рис, норі",
+                    "img": "https://fydziama.in.ua/userfiles/product_img/photoss/322.png"
+                },
+                {
+                    "id": 19,
+                    "price": 230,
+                    "name": "Каліфорнія рол",
+                    "description": "Крабові палички, авокадо, ікра, майонез",
+                    "img": "https://966.ua/upload/iblock/c9b/c9b62117d4ab65f0882e40fd6f1b8a85.jpg"
+                },
+                {
+                    "id": 20,
+                    "price": 210,
+                    "name": "Рол Дракон",
+                    "description": "Вугор, авокадо, огірок, соус унагі",
+                    "img": "https://966.ua/upload/iblock/246/24639fa15a4f4f02f4e6775fe1cbb2c9.jpg"
+                },
+                {
+                    "id": 21,
+                    "price": 240,
+                    "name": "Філадельфія рол",
+                    "description": "Лосось, сир Філадельфія, авокадо, рис",
+                    "img": "https://cdn.egersund.ua/12690c55-6bb0-4407-a6cd-1dbc98c71c00/origin/origin"
+                },
+                {
+                    "id": 22,
+                    "price": 250,
+                    "name": "Веселковий рол",
+                    "description": "Тунець, лосось, авокадо, рис",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyfzBssjQZD01Yx2JUR-_YO5G432ySbXkXMQ&s"
+                },
+                {
+                    "id": 23,
+                    "price": 260,
+                    "name": "Рол Темпура",
+                    "description": "Креветка, авокадо, сир, смажений у темпурі",
+                    "img": "https://www.yaponamatrena.ru/upload/iblock/f98/f98e98c932f22c92686e2e444fe417f8.jpg"
+                },
+                {
+                    "id": 24,
+                    "price": 270,
+                    "name": "Рол Спайсі",
+                    "description": "Лосось, гострий соус, огірок, норі",
+                    "img": "https://syodo.com.ua/_next/image?url=https%3A%2F%2Fmedia.syodo.com.ua%2Fproducts%2F219.webp&w=3840&q=75"
+                }
+            ]
+        },
+        "drinks": {
+            "чай": [
+                {
+                    "id": 25,
+                    "price": 50,
+                    "name": "Зелений чай",
+                    "description": "Класичний зелений чай з легким квітковим ароматом",
+                    "img": "https://admin.newtea.ua/files/styles/blog_mobile_webp/public/blog/zeleniy-chay-korist-dlya-shkiri.png.webp?itok=3wZ79aHX"
+                },
+                {
+                    "id": 26,
+                    "price": 45,
+                    "name": "Чорний чай",
+                    "description": "Міцний чорний чай з насиченим смаком",
+                    "img": "https://static6.depositphotos.com/1001759/581/i/450/depositphotos_5815720-stock-photo-cup-with-tea-and-green.jpg"
+                }, 
+                {
+                    "id": 27,
+                    "price": 60,
+                    "name": "Трав'яний чай",
+                    "description": "М'ята, ромашка, мед, лимон",
+                    "img": "https://val.ua/uploads/news/full/61424c62dfa11.jpeg"
+                },
+                {
+                    "id": 28,
+                    "price": 55,
+                    "name": "Імбирний чай",
+                    "description": "Чай з імбирем, медом і лимоном",
+                    "img": "https://rud.ua/uploads/product/big/_mbirniy_02_5a65a92718fd1.jpg"
+                }
+            ],
+            "кава": [
+                {
+                    "id": 29,
+                    "price": 70,
+                    "name": "Еспресо",
+                    "description": "Класична міцна кава з насиченим смаком",
+                    "img": "https://pizzavirtuoso.com.ua/wp-content/uploads/2024/04/1451358376_espresso-coffee-1000x1000-1.jpg"
+                },
+                {
+                    "id": 30,
+                    "price": 90,
+                    "name": "Капучіно",
+                    "description": "Кава з молочною піною і кремовим смаком",
+                    "img": "https://assets.dots.live/misteram-public/0190c71a-52e7-731a-85cd-09429043a1df-826x0.png"
+                },
+                {
+                    "id": 31,
+                    "price": 85,
+                    "name": "Латте",
+                    "description": "М'яка кава з великою кількістю молока",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ecJeJnsvoWgQ3so9rGQiTKGtMBcG-RhCWw&s"
+                },
+                {
+                    "id": 32,
+                    "price": 95,
+                    "name": "Американо",
+                    "description": "Класична чорна кава з водою",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClNWapxRl0jSk9-PzPg8xVTh9YXi-LcdafA&s"
+                }
+            ],
+            "лимонад": [
+                {
+                    "id": 33,
+                    "price": 65,
+                    "name": "Класичний лимонад",
+                    "description": "Охолоджений лимонний напій зі свіжим смаком",
+                    "img": "https://pizzavirtuoso.com.ua/wp-content/uploads/2024/04/lymonad.jpg"
+                },
+                {
+                    "id": 34,
+                    "price": 70,
+                    "name": "Полуничний лимонад",
+                    "description": "Освіжаючий лимонад з додаванням полуниці",
+                    "img": "https://ua.inshaker.com/uploads/cocktail/promo/480/medium_1542205318-Strawberry-Lemonade-_promo.jpg"
+                },
+                {
+                    "id": 35,
+                    "price": 75,
+                    "name": "М'ятний лимонад",
+                    "description": "Лимонад зі свіжою м'ятою і цитрусом",
+                    "img": "https://volyn.com.ua/content/thumbs/1500x1000/d/cr/k35gh6-khh76nudmz2gxilanfjtjq4onpcr7crd.jpg"
+                },
+                {
+                    "id": 36,
+                    "price": 80,
+                    "name": "Малиновий лимонад",
+                    "description": "Лимонад зі свіжою малиною і м'ятою",
+                    "img": "https://ua.inshaker.com/uploads/cocktail/promo/566/square_1542205351-Raspberry-Lemonade-_promo.jpg"
+                }
+            ]
+        }
+    }
+}
