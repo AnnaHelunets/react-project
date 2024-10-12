@@ -1,0 +1,27 @@
+.сontainer {
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+}
+.delivery, .contacts {
+    width: 50%; 
+    box-sizing: border-box;
+    margin: 0 5px;
+    height: 630px;
+}
+.delivery p {
+    margin: 5px 10px;
+}
+.contacts p {
+    margin: 10px 10px;
+}
+.delivery img {
+    margin: 10px 0;
+}
+.grid_img {
+    display: grid; 
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 10px;
+    margin-top: 100px;
+}
+

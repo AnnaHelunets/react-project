@@ -1,0 +1,91 @@
+body {
+    background-color: #ffaf9749;
+}
+.dishes {
+    width: 90%;
+    margin:  0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    justify-items: center;
+    margin-bottom: 20px;
+}
+h1, h2, h3, h4 {
+    text-align: center;
+}
+h1{ 
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
+}
+h3 {
+    font-size: 24px;
+}
+h4 {
+    font-size: 18px;
+    margin: 10px;
+}
+p {
+    margin: 0 20px;
+    margin-bottom: 10px;
+}
+.dish {
+    width: 100%;
+    background-color: #ffaf9762;
+    border-color: #ffaf97af;
+    border-radius: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.dish:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.dishImg {
+    width: 230px;
+    height: 170px;
+    display: block;
+    margin: 8px auto;
+    border-radius: 20px;
+}
+.addToCart {
+    margin-bottom: 15px;
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+}
+.addToCart button {
+    background-color: transparent;
+    cursor: pointer;
+    text-align: center;
+    border: 2px solid #ffaf97;
+    border-radius: 5px;
+    margin: 0 20px;
+    margin-bottom: 10px;
+    padding: 3px 7px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+.addToCart button:hover {
+    border: 2px solid #ffaf97;
+    background-color: #ffaf97af;
+}
+.drinks {
+    width: 90%;
+    margin:  0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    justify-items: center;
+    margin-bottom: 20px;
+}
+.drink {
+    width: 100%;
+    background-color: #ffaf9762;
+    border-color: #ffaf97af;
+    border-radius: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.drink:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+

@@ -1,0 +1,14 @@
+.about {
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    margin: 0 auto;
+    margin-left: 5px;
+    height: 70vh;
+    align-items: center;
+    width: 100%;
+}
+
+.about-text {
+    width: 50%;
+}
