@@ -1,5 +1,5 @@
 export function getData() {
-    return fetch('/db.json')
+    return fetch('${process.env.PUBLIC_URL}/db.json')
       .then(response => {
         if (!response.ok) {
           throw new Error('Помилка завантаження даних');
